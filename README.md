@@ -9,7 +9,7 @@
 
 4.加入
 
-###主要功能
+###主要结构
 
 1.展示社区动态，吸引更多人加入
 
@@ -18,3 +18,6 @@
 3.FreeCodeCamp和技术栈简介
 
 4.成员介绍，社区人员的作品展示
+
+###Githubpages
+[页面预览](http://dirwu.github.io/FCCZhengZhou/home.html)

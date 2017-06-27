@@ -80,4 +80,20 @@
 	width: 250px;
 }
 
+.col-xs-3 img{
+	text-decoration: none;
+	-webkit-transition: -webkit-transform 0.3s ease 0s;
+	transition: transform 0.3s ease 0s;
+	-webkit-transform-origin: 50% 0px 0px;
+	-ms-transform-origin: 50% 0px 0px;
+	transform-origin: 50% 0px 0px;
+	-webkit-transform-style: preserve-3d;
+	-ms-transform-style: preserve-3d;
+	transform-style: preserve-3d;
+			}
+.col-xs-3 img:hover{
+   -webkit-transform: rotateY(360deg) translateY(-22px);
+	-ms-transform: rotateY(360deg) translateY(-22px);
+    transform: rotateY(360deg) translateY(-22px);
+			}
 			
